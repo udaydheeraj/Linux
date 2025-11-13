@@ -7,7 +7,7 @@
 #
 # Version: v1
 #
-#This script will AWS resource usage
+#This script will list the  AWS resource usage
 ####################
 
 #AWS S3
