@@ -2,7 +2,7 @@
 
 
 #########################
-# Author: uday reddy
+# Author: uday dheeraj reddy
 # Date: 12th NOV
 #
 # Version: v1
